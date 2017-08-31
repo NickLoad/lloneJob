@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ll-common/ll-common.iml" filepath="$PROJECT_DIR$/ll-common/ll-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ll-manager/ll-manager.iml" filepath="$PROJECT_DIR$/ll-manager/ll-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ll-manager/ll-manager-dao/ll-manager-dao.iml" filepath="$PROJECT_DIR$/ll-manager/ll-manager-dao/ll-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ll-manager/ll-manager-interface/ll-manager-interface.iml" filepath="$PROJECT_DIR$/ll-manager/ll-manager-interface/ll-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ll-manager/ll-manager-pojo/ll-manager-pojo.iml" filepath="$PROJECT_DIR$/ll-manager/ll-manager-pojo/ll-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ll-manager/ll-manager-service/ll-manager-service.iml" filepath="$PROJECT_DIR$/ll-manager/ll-manager-service/ll-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ll-manager/ll-manager-web/ll-manager-web.iml" filepath="$PROJECT_DIR$/ll-manager/ll-manager-web/ll-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ll-parent/ll-parent.iml" filepath="$PROJECT_DIR$/ll-parent/ll-parent.iml" />
+    </modules>
+  </component>
+</project>
